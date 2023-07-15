@@ -32,6 +32,7 @@ DockView - это проект, предназначенный для монит
 ## Структура проекта
 
 ```
+DockView/
 ├── README.md
 ├── monitoring-host/
 │   ├── prometheus/
